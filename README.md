@@ -1,50 +1,51 @@
-# Welcome to your Expo app 👋
+# 🧵 Stitching Guide Mobile App  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 **A comprehensive stitching guide mobile application built with Expo!**  
+This app provides a step-by-step guide to stitching, featuring **speech-based descriptions**, **GIF animations**, and a **rich user interface** for an interactive learning experience.  
 
-## Get started
+## 🧐 Key Features  
 
-1. Install dependencies
+✅ **Expo Speech Integration** – The app uses Expo Speech to describe each stitching step aloud.  
+✅ **Seven Detailed Steps** – Covers essential stitching techniques with clear descriptions.  
+✅ **GIF Animations** – Provides dynamic visuals to enhance understanding.  
+✅ **Rich UI** – Designed for an engaging and user-friendly experience.  
+✅ **Cross-Platform Compatibility** – Runs seamlessly on both Android and iOS.  
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Tech Stack  
 
-2. Start the app
+- **Framework**: Expo (React Native)  
+- **Speech API**: Expo Speech  
+- **Media Support**: GIF animations for step-by-step guidance  
+- **State Management**: React Hooks  
 
-   ```bash
-    npx expo start
-   ```
+## 🔧 Installation Steps  
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+1️⃣ **Clone the GitHub repo**  
 ```bash
-npm run reset-project
-```
+git clone git@github.com:dileepapeiris/Stitching-Guide-App.git
+```  
+2️⃣ **Navigate to the project folder**  
+```bash
+cd stitching-guide-app
+```  
+3️⃣ **Install dependencies**  
+```bash
+npm install  
+```  
+4️⃣ **Run the app**  
+```bash
+npx expo start
+```  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 💻 Skills Utilized  
 
-## Learn more
+- **React Native (Expo)**  
+- **Expo Speech API**  
+- **Mobile UI/UX Design**  
+- **GIF Animations & Media Handling**  
+- **State Management with React Hooks**  
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+💖 **Like my work? Let's connect!**  
+🔗 **LinkedIn**: [Dileepa Peiris](www.linkedin.com/in/dileepa-peiris)  
